@@ -11,4 +11,6 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '14.x'
-      - run: npm run deploy-storybook
+      - run: |
+          npm i
+          npm run deploy-storybook
