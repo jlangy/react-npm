@@ -17,7 +17,7 @@ const Template = (args) => (
   <Accordion {...args}>
     <Accordion.Panel title="Q. What is the difference between confidential and public client types?">
       <p>
-        The short answer is that <b>confidential clients</b> can keep a secret
+        The <strong>short answer</strong> is that <b>confidential clients</b> can keep a secret
         while <b>public clients</b> do not require a secret.
       </p>
       <h3>Confidential Client</h3>
