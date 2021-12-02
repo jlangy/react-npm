@@ -1,5 +1,5 @@
 {
-  "name": "@jlangy/react-npm",
+  "name": "@bcgov-sso/react-npm",
   "version": "1.0.8",
   "description": "common react components",
   "main": "dist/cjs/index.js",
