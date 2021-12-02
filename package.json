@@ -1,6 +1,6 @@
 {
   "name": "@jlangy/react-npm",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "common react components",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
