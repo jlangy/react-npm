@@ -1,4 +1,4 @@
-name: Node.js Package
+name: Publish Storybook
 on:
   push:
     branches: [main]
