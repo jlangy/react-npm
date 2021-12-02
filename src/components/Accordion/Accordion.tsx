@@ -76,7 +76,7 @@ const ActionsContainer = styled.div`
 
 const Divider = styled.span`
   border-right: 1px solid black;
-  margin: 0 10px;
+  margin: 0 9px;
 `;
 
 function Accordion({ children }: Props) {
